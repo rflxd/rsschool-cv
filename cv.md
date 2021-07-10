@@ -1,4 +1,4 @@
-# Markdown & Git
+# My CV
 ## Name and Last Name:
 #### Name: *Lasha* 
 #### LastName: *Kardava*
