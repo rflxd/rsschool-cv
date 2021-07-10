@@ -1,10 +1,9 @@
 # My CV
-## Name and Last Name:
+## Contact Info:
 #### Name: *Lasha* 
-#### LastName: *Kardava*
-## Contact Info: 
+#### Last Name: *Kardava*
 #### Email: *lashakardava@gmail.com* 
-#### DiscordTag: *Lasha#4458*
+#### Discord Tag: *Lasha#4458*
 ## Summary 
 #### My **Goal** currently is to *learn* more about being a Front End Developer, even though i don't have huge Chances of getting employed by **EPAM**, this Subject truly interests me and with **Hard Work** and **Dedication** i think i can reach my Goal.
 ## Skills  
